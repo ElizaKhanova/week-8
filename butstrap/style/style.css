@@ -1,0 +1,18 @@
+.head{
+    height: 60%;
+}
+.main{
+    color: black;
+    background-color: rgb(211, 224, 220);
+}
+h1{
+    font-size: 100px;
+    margin-top: 0.4em;
+}
+.foot{
+    color: #ffffff;
+    height: 10vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
